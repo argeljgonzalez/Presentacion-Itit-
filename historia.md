@@ -1,0 +1,6 @@
+## Historia de Windows
+- Microsoft, inicialmente conocido como "Traf-O-Data" en 1972, cambió su nombre a "Micro-soft" en noviembre de 1975 y, finalmente, a "Microsoft" el 26 de noviembre de 1976. En agosto de 1981, la compañía lanzó su primer sistema operativo, MS-DOS 1.0, un sistema de línea de comandos de 16 bits.
+
+- La primera versión de Microsoft Windows, Windows 1.0, salió al mercado en noviembre de 1985. Esta versión introdujo una interfaz gráfica de usuario, inspirada en la de los equipos Apple, pero no logró captar el interés del público. Windows 2.0, lanzado el 9 de diciembre de 1987, tampoco tuvo éxito.
+
+- El 22 de mayo de 1990, Microsoft lanzó Windows 3.0, que marcó un punto de inflexión importante y fue un éxito comercial. Esta versión fue seguida por Windows 3.1 en 1992 y Windows for Workgroups (más tarde renombrado Windows 3.11), que incluía capacidades de red. Es importante destacar que Windows 3.1 no era un sistema operativo completamente independiente, sino una interfaz gráfica que se ejecutaba sobre MS-DOS.
